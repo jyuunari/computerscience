@@ -11,5 +11,3 @@ Data Structure
 AI
 
 Software Engineering
-
-TEST
