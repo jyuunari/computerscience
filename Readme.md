@@ -4,7 +4,7 @@
 OOP Design Patterns
 SQL Design Patterns
 
-Alogrithms
+Algorithms
 
 Data Structure
 
