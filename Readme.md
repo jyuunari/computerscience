@@ -8,23 +8,33 @@ https://www.youtube.com/watch?v=fTSos2ySZEI
 
 
 
-**インデックス**
-
-1. OOP Design Patterns
-2. SQL Design Patterns
-3. Algorithms
+### コンピューター科学(Computer Science)
+1. Calculator, Hardware
+2. Programming Language
+3. Algorithm
 4. Data Structure
-5. AI
-6. Software Engineering
+5. Software Engineering 
+6. Database
+7. BigData, Cloud
+8. ML, AI
+
+### 設計、構築、Frameworkの開発
+
+共通
+1. OOP Design Patterns 
+2. SQL Design Patterns
+
+
+### 基礎につながる科目
+1. Mathematics > AI, 3D
+2. Science > Physics
+3. Chemistry > Electronics
 
 
 
-基礎
-1. Mathematics
-2. Science
 
 
-2024以降の言語に関して
+#### 2024以降の言語に関して
 1. Python
 2. Java/C#
 3. JavaScript/TypeScript
