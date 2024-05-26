@@ -2,10 +2,9 @@
 Youtube Channel
 https://www.youtube.com/watch?v=fTSos2ySZEI
 
-ここはコンピューター科学が未来の重要な分野になっており、
+こちらはコンピューター科学が未来の重要な分野になっており、
 分かりやすく効率的に学習できるために開設されました。
 以下のような項目で最新情報や学習資料を提供していきたいと思います。
-
 
 
 ### コンピューター科学(Computer Science)
@@ -31,10 +30,7 @@ https://www.youtube.com/watch?v=fTSos2ySZEI
 3. Chemistry > Electronics
 
 
-
-
-
-#### 2024以降の言語に関して
+#### 2024以降のトレンド言語に関して
 1. Python
 2. Java/C#
 3. JavaScript/TypeScript
