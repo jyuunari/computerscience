@@ -30,9 +30,13 @@ https://www.youtube.com/watch?v=fTSos2ySZEI
 3. Chemistry > Electronics
 
 
+### AI研究について
+
+下案
+![img.png](img.png)
+
 #### 2024以降のトレンド言語に関して
 1. Python
 2. Java/C#
 3. JavaScript/TypeScript
 4. C/C++
-
