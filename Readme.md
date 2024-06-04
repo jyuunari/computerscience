@@ -43,8 +43,6 @@ Javascriptで開発しようとおもいます。
 4. C/C++
 
 
+##### 1. OOP Design Patterns
 
-### AI研究について
-
-下案
 ![img.png](img.png)
