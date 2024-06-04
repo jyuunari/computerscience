@@ -45,4 +45,4 @@ Javascriptで開発しようとおもいます。
 
 ##### 1. OOP Design Patterns
 
-![img.png](img.png)
+![img3.png](img3.png)
