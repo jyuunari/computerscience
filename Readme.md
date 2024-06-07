@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=fTSos2ySZEI
 6. Database
 7. BigData, Cloud
 8. ML, AI
+9. Network Programming
+10. System Programmming
 
 ### 設計、構築、Frameworkの開発
 
